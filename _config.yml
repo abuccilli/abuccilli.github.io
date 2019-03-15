@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Buccilli"
-  avatar           : "profile.png"
+  avatar           : "andrew.jpg"
   bio              : "Physics PhD at University of Alabama"
   location         : "Atlanta, GA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=J-jMK_IAAAAJ&hl=en&authuser=1"
-  email            :
+  email            : buccilli.andrew@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
