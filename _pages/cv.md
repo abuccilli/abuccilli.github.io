@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * <b>Ph.D., Experimental Particle Physics,</b> The University of Alabama, Tuscaloosa, AL, May 2019
-  * Dissertation Defense: November 7, 2018
-  * dissertation: <i>"Search for Signatures of Large Extra Dimensions in High-Mass Diphoton Events from Proton-Proton Collisions at $\sqrt{s} = 13$ TeV with CMS"</i>
-  * advisor: [Prof. Conor Henderson](https://physics.ua.edu/profiles/conor-henderson)
+  * Dissertation defense: November 7, 2018
+  * Dissertation: <i>"Search for Signatures of Large Extra Dimensions in High-Mass Diphoton Events from Proton-Proton Collisions at $\sqrt{s} = 13$ TeV with CMS"</i>
+  * Advisor: [Prof. Conor Henderson](https://physics.ua.edu/profiles/conor-henderson)
 * <b>M.S., Physics,</b> The University of Alabama, Tuscaloosa, AL, May 2016
-  * Master's Defense: November 30, 2015
+  * Master's defense: November 30, 2015
 * <b>B.S., Mathematics,</b> Michigan Technological University, Houghton, MI, April 2011
 
 
@@ -32,7 +32,8 @@ Employment
 Research Experience
 ======
 * <b>Graduate Research,</b> University of Alabama, Tuscaloosa, AL, Summer 2013 - Fall 2018
-  My Ph.D. dissertation research is in experimental high energy particle physics and largely consisted of performing:
+  <br>
+  <br> My Ph.D. dissertation research is in experimental high energy particle physics and largely consisted of performing:
 
   * Big data analysis: Member of international, 4000+ member CMS Collaboration performing Ph.D. research looking for signals of new physics beyond the Standard Model with the CERN Large Hadron Collider using PBs of data collected by and recorded with the CMS detector;
 
@@ -55,7 +56,8 @@ Research Experience
   I was employed as a Graduate Research Assistant from Summer 2014 - Fall 2017 and during Summer 2018, but actively involved with dissertation research since Summer 2013.
 
 * <b>Graduate Research Assistant / On-site lab user,</b> European Center for Nuclear Research (CERN), Geneva, Switzerland, Spring 2016 - Summer 2017
-  While based on-site at CERN, I was primarily involved with:
+  <br>
+  <br> While based on-site at CERN, I was primarily involved with:
 
   * Detector operations: Regular 24/7 on-call expert for the CMS hadron calorimeter (HCAL) subdetector responsible for addressing problems and in charge of coordinating activity during daily meetings; and
 
@@ -67,7 +69,8 @@ Research Experience
 Teaching Experience
 ======
 * <b>Graduate Teaching Assistant,</b> Department of Physics and Astronomy, University of Alabama, Tuscaloosa, AL, Fall 2012 - Spring 2014, Spring 2018
-  Lead lab instructor for multiple 2 hour long physics labs consisting of 50 students each.
+  <br>
+  <br> Lead lab instructor for multiple 2 hour long physics labs consisting of 50 students each.
 
   * Lab instructor, PH 105 <i>General Physics with Calculus I</i>, 3 sections, Spring 2018
   * Course assistant, PH 105 <i>General Physics with Calculus I</i> (studio format), 1 section, Spring 2014
@@ -120,7 +123,7 @@ Talks
 * Seminar, "Search for signatures of extra dimensions in the diphoton mass spectrum at CMS", HEP Seminar, University of Alabama, Tuscaloosa, AL, December 2013, [https://physics.ua.edu](https://physics.ua.edu)
 
 
-Workshops, and Summer Schools
+Workshops and Summer Schools
 ======
 * Selected participant, 2016 CTEQ-MCnet School on QCD, Electroweak Phenomenology, and Monte Carlo Generators, DESY, Hamburg, Germany, 6-16 July 2016, [https://indico.desy.de/indico/event/13506](https://indico.desy.de/indico/event/13506)
 
@@ -131,7 +134,7 @@ Workshops, and Summer Schools
 
 Skills
 ======
-* <b>Computing:</b> C++ (STL), Python (NumPy, SciPy, pandas, Matplotlib), CERN ROOT, bash, git/svn, $\LATEX$, HTML, Unix, Linux, macOS, Jupyter, Mathematica, Matlab, Excel VBA, Monte Carlo physics simulation, RooStats, shell scripting, Sublime/emacs
+* <b>Computing:</b> C++ (STL), Python (NumPy, SciPy, pandas, Matplotlib), CERN ROOT, bash, git/svn, LaTeX, HTML, Unix, Linux, macOS, Jupyter, Mathematica, Matlab, Excel VBA, Monte Carlo physics simulation, RooStats, shell scripting, Sublime/emacs
 
 * <b>General:</b> Collaborative and independent research, data analysis, programming, effective technical and non-technical communication, writing publications, public presentations, project management, leadership, teaching, mentoring, graduate-level physics and mathematics
 
