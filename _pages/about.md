@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-In progress.
+I'm completing my Ph.D. at the [University of Alabama, Tuscaloosa](https://physics.ua.edu) in experimental particle physics. I recently defended my dissertation and will formally graduate in May 2019.
+
+My researched focused on searching for evidence of extra spatial dimensions in the universe, namely, large extra dimensions, using the [CMS detector](https://cms.web.cern.ch) at the [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) located at [CERN](https://home.cern) in Geneva, Switzerland. This is a search for new physics beyond the [Standard Model](https://en.wikipedia.org/wiki/Standard_Model) of particle physics looking for new fundamental particles decaying to two photons.
+
+I'm interested in applications of these data analysis skills to all different areas of industry.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
