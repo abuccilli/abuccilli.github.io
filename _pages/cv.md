@@ -12,10 +12,13 @@ redirect_from:
 Education
 ======
 * <b>Ph.D., Experimental Particle Physics,</b> The University of Alabama, Tuscaloosa, AL, May 2019
-  * dissertation: <i>"Search for Signatures of Large Extra Dimensions in High-Mass Diphoton Events from Proton-Proton Collisions at $\sqrt{s} = 13$ TeV with CMS"</i> (defended November 4, 2018)
+  * Dissertation Defense: November 7, 2018
+  * dissertation: <i>"Search for Signatures of Large Extra Dimensions in High-Mass Diphoton Events from Proton-Proton Collisions at $\sqrt{s} = 13$ TeV with CMS"</i>
   * advisor: [Prof. Conor Henderson](https://physics.ua.edu/profiles/conor-henderson)
 * <b>M.S., Physics,</b> The University of Alabama, Tuscaloosa, AL, May 2016
+  * Master's Defense: November 30, 2015
 * <b>B.S., Mathematics,</b> Michigan Technological University, Houghton, MI, April 2011
+
 
 Employment
 ======
@@ -25,16 +28,47 @@ Employment
 * Spring 2016 - Summer 2017, Graduate Research Assistant, European Center for Nuclear Research (CERN), Geneva, Switzerland
 * Fall 2012 - Spring 2014, Graduate Teaching Assistant, University of Alabama, Tuscaloosa, AL
 
+
 Research Experience
 ======
 * <b>Graduate Research,</b> University of Alabama, Tuscaloosa, AL, Summer 2013 - Fall 2018
+  My Ph.D. dissertation research is in experimental high energy particle physics and largely consisted of performing:
+
+  * Big data analysis: Member of international, 4000+ member CMS Collaboration performing Ph.D. research looking for signals of new physics beyond the Standard Model with the CERN Large Hadron Collider using PBs of data collected by and recorded with the CMS detector;
+
+  * Data reduction: Wrote dedicated analysis code to reduce data to GBs on remote computing clusters distributed across a worldwide computing grid;
+
+  * Data selection: Started a new statistical search optimizing data selection criteria for discriminating signal and background, optimizing analysis sensitivity;
+
+  * Data interpretation: Produced Monte Carlo simulation of signal and background to compare against data and used statistical methods to search for an excess of data over background; and
+
+  * Collaboration and leadership: As manager of an 8 member, 3 year long analysis team, convened meetings across multiple time zones, coordinated with management, and lead analysis towards publication, while presenting weekly updates and maintaining documentation.
+
+  * APS conference talk: [http://meetings.aps.org/Meeting/APR18/Session/C09.5](http://meetings.aps.org/Meeting/APR18/Session/C09.5)
+  * Publication: [https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.092001](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.092001)
+  * Analysis code: [https://github.com/cms-exotica-diphotons/diphoton-analysis](https://github.com/cms-exotica-diphotons/diphoton-analysis)
+
+  During this time, I was a CERN lab user, member of the CMS Collaboration, and a user of the Fermi National Accelerator Laboratory (Fermilab) LHC Physics Center's computing cluster.
+
+  I have contributed to the CMS diphoton searches organized using the CMS analysis codes EXO-17-017, EXO-16-027, EXO-16-018, EXO-15-004, and EXO-12-045, serving as the Contact Person for EXO-17-017. The results of these searches are found under my list of publications.
+
+  I was employed as a Graduate Research Assistant from Summer 2014 - Fall 2017 and during Summer 2018, but actively involved with dissertation research since Summer 2013.
 
 * <b>Graduate Research Assistant / On-site lab user,</b> European Center for Nuclear Research (CERN), Geneva, Switzerland, Spring 2016 - Summer 2017
+  While based on-site at CERN, I was primarily involved with:
+
+  * Detector operations: Regular 24/7 on-call expert for the CMS hadron calorimeter (HCAL) subdetector responsible for addressing problems and in charge of coordinating activity during daily meetings; and
+
+  * Detector analysis: Member of HCAL group responsible for monitoring and analyzing its data for issues and maintaining code for constantly evolving detector hardware. Data analysis performed for synchronizing the 3500 HCAL readout channels used during data taking, separately during 2016 and 2017.
+
+  Our analysis code is maintained at [https://github.com/HCALPFG](https://github.com/HCALPFG). I wrote some template code to help new members of the group at [https://github.com/HCALPFG/HcalTupleAnalyzerExample](https://github.com/HCALPFG/HcalTupleAnalyzerExample).
 
 
 Teaching Experience
 ======
 * <b>Graduate Teaching Assistant,</b> Department of Physics and Astronomy, University of Alabama, Tuscaloosa, AL, Fall 2012 - Spring 2014, Spring 2018
+  Lead lab instructor for multiple 2 hour long physics labs consisting of 50 students each.
+
   * Lab instructor, PH 105 <i>General Physics with Calculus I</i>, 3 sections, Spring 2018
   * Course assistant, PH 105 <i>General Physics with Calculus I</i> (studio format), 1 section, Spring 2014
   * Lab instructor, PH 106 <i>General Physics with Calculus II</i>, 1 section, Fall 2013
@@ -54,15 +88,6 @@ Teaching Experience
   * Coach and tutor for precalculus; calculus 1, 2, and 3; differential equations; linear algebra; and statistics. We accepted walk-ins or individual, one-on-one appointments.
 
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
 Public articles I have made significant contributions towards are listed below. I am a coauthor on all of the CMS Collaboration's publications since fulfilling their authorship requirements on October 13, 2016, currently over 220 publications. For the full list, please see: [http://inspirehep.net/author/profile/A.Buccilli.1](http://inspirehep.net/author/profile/A.Buccilli.1).
@@ -80,22 +105,75 @@ Public articles I have made significant contributions towards are listed below. 
 * <b>CMS Collaboration,</b> "Search for new physics in high mass diphoton events in proton-proton collisions at $\sqrt{s} = 13$ TeV ", Technical Report CMS-PAS-EXO-15-004, CERN, Geneva, 2015, [http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-15-004/index.html](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-15-004/index.html)
 
 * <b>CMS Collaboration,</b> "Search for High-Mass Diphoton Resonances in pp Collisions at $\sqrt{s} = 8$ TeV with the CMS Detector", Technical Report CMS-PAS-EXO-12-045, CERN, Geneva, 2015, [http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-12-045/index.html](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-12-045/index.html)
-<!--   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
+
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Dissertation defense, "Search for Signatures of Large Extra Dimensions in High-Mass Diphoton Events from Proton-Proton Collisions at $\sqrt{s} = 13$ TeV with CMS", University of Alabama, Tuscaloosa, AL, November 2018, [https://physics.ua.edu](https://physics.ua.edu)
+
+* Parallel talk, "Search for signatures of large extra dimensions in high-mass diphoton events using proton-proton collisions at $\sqrt{s} = 13$ TeV with CMS", APS April Meeting 2018, Columbus, OH, 14-17 April 2018, [http://meetings.aps.org/Meeting/APR18/Session/C09.5](http://meetings.aps.org/Meeting/APR18/Session/C09.5)
+
+* Competitive talk, "Searching for extra dimensions with a $5 billion microscope", Three Minute Thesis, University of Alabama, Tuscaloosa, AL, November 2017, [https://graduate.ua.edu/current-students/3mt](https://graduate.ua.edu/current-students/3mt) (Department winner and college semi-finalist.)
+
+* Seminar, "Searching for Large Extra Dimensions with CMS", HEP Seminar, University of Alabama, Tuscaloosa, AL, November 2014, [https://physics.ua.edu](https://physics.ua.edu)
+
+* Seminar, "Search for signatures of extra dimensions in the diphoton mass spectrum at CMS", HEP Seminar, University of Alabama, Tuscaloosa, AL, December 2013, [https://physics.ua.edu](https://physics.ua.edu)
+
+
+Workshops, and Summer Schools
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Selected participant, 2016 CTEQ-MCnet School on QCD, Electroweak Phenomenology, and Monte Carlo Generators, DESY, Hamburg, Germany, 6-16 July 2016, [https://indico.desy.de/indico/event/13506](https://indico.desy.de/indico/event/13506)
+
+* Selected participant, Workshop on Holography: Near and Far from Equilibrium, University of Alabama, Tuscaloosa, AL, 24-30 October 2015, [https://physics.ua.edu/recent-events/international-research-workshop-summer-school](https://physics.ua.edu/recent-events/international-research-workshop-summer-school)
+
+* Selected participant, CMS Data Analysis School, LPC, Fermilab, Batavia, IL, 12-16 January 2015, [https://indico.cern.ch/event/346968/overview](https://indico.cern.ch/event/346968/overview) (Awarded best presentation as selected by a panel of judges among 8 teams of about 10 international postgraduates working on a week-long data analysis project.)
+
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* <b>Computing:</b> C++ (STL), Python (NumPy, SciPy, pandas, Matplotlib), CERN ROOT, bash, git/svn, $\LATEX$, HTML, Unix, Linux, macOS, Jupyter, Mathematica, Matlab, Excel VBA, Monte Carlo physics simulation, RooStats, shell scripting, Sublime/emacs
+
+* <b>General:</b> Collaborative and independent research, data analysis, programming, effective technical and non-technical communication, writing publications, public presentations, project management, leadership, teaching, mentoring, graduate-level physics and mathematics
+
+* <b>Language:</b> English (native), Chinese (beginner, approximately HSK Level 3), French (basic)
+  
+
+Research Service and Leadership Roles
+======
+* Analysis Contact, CMS Exotica (EXO) Physics Analysis Group (PAG)
+  * EXO-17-017
+
+* Member, CMS EXO PAG
+  * EXO-16-027
+  * EXO-16-018
+  * EXO-15-004
+  * EXO-12-045
+
+* Member, CMS Hadron Calorimeter (HCAL) Operations group
+  * HCAL Prompt Feedback Group (PFG)
+  * HCAL Detector-On-Call (DOC)
+
+
+Outreach and Service
+======
+* Coordinator/founder, Experimental Particle Physics Journal Club, Department of Physics and Astronomy, University of Alabama, Tuscaloosa, AL, Fall 2017 - Spring 2018, [https://physics.ua.edu/experimental-particle-and-astroparticle-physics-journal-club](https://physics.ua.edu/experimental-particle-and-astroparticle-physics-journal-club)
+
+* Panelist/representative, Graduate Recruiting Expo 2018, College of Arts and Sciences, University of Alabama, Tuscaloosa, AL, Spring 2018, [https://grex.ua.edu](https://grex.ua.edu)
+
+* Physics event assistant, Alabama Science Olympiad, University of Alabama, Tuscaloosa, AL, Spring 2013, Spring 2014, Spring 2015, [https://scienceolympiad.as.ua.edu](https://scienceolympiad.as.ua.edu)
+
+* Coach, Houghton High School math team, Houghton, MI, Fall 2010 - Spring 2011, [http://hpts.us](http://hpts.us)
+
+
+Miscellaneous
+======
+* <b>Organizations:</b> American Physical Society, Sigma Pi Sigma ($\Sigma\Pi\Sigma$) physics honor society
+
+* <b>Awards:</b> Top Student in my undergraduate <i>Linear Algebra</i> and <i>Partial Differential Equations</i> courses, selected among  approximately 50 and 30 students, respectively.
+
+
+
+
+
+
+
