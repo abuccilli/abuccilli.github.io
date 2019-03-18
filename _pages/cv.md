@@ -114,6 +114,8 @@ Talks
 ======
 * Dissertation defense, "Search for Signatures of Large Extra Dimensions in High-Mass Diphoton Events from Proton-Proton Collisions at $\sqrt{s} = 13$ TeV with CMS", University of Alabama, Tuscaloosa, AL, November 2018, [https://physics.ua.edu](https://physics.ua.edu)
 
+* Seminar, "Search for large extra dimensions using high-mass diphoton events collected with CMS in 2016", Experimental Particle Physics Journal Club, University of Alabama, Tuscaloosa, AL, April 2018, [https://physics.ua.edu/experimental-particle-and-astroparticle-physics-journal-club/](https://physics.ua.edu/experimental-particle-and-astroparticle-physics-journal-club/)
+
 * Parallel talk, "Search for signatures of large extra dimensions in high-mass diphoton events using proton-proton collisions at $\sqrt{s} = 13$ TeV with CMS", APS April Meeting 2018, Columbus, OH, 14-17 April 2018, [http://meetings.aps.org/Meeting/APR18/Session/C09.5](http://meetings.aps.org/Meeting/APR18/Session/C09.5)
 
 * Competitive talk, "Searching for extra dimensions with a $5 billion microscope", Three Minute Thesis, University of Alabama, Tuscaloosa, AL, November 2017, [https://graduate.ua.edu/current-students/3mt](https://graduate.ua.edu/current-students/3mt) (Department winner and college semi-finalist.)
