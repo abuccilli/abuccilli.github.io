@@ -32,7 +32,6 @@ Employment
 Research Experience
 ======
 * <b>Graduate Research,</b> University of Alabama, Tuscaloosa, AL, Summer 2013 - Fall 2018
-  <br>
   <br> My Ph.D. dissertation research is in experimental high energy particle physics and largely consisted of performing:
 
   * Big data analysis: Member of international, 4000+ member CMS Collaboration performing Ph.D. research looking for signals of new physics beyond the Standard Model with the CERN Large Hadron Collider using PBs of data collected by and recorded with the CMS detector;
@@ -56,7 +55,6 @@ Research Experience
   I was employed as a Graduate Research Assistant from Summer 2014 - Fall 2017 and during Summer 2018, but actively involved with dissertation research since Summer 2013.
 
 * <b>Graduate Research Assistant / On-site lab user,</b> European Center for Nuclear Research (CERN), Geneva, Switzerland, Spring 2016 - Summer 2017
-  <br>
   <br> While based on-site at CERN, I was primarily involved with:
 
   * Detector operations: Regular 24/7 on-call expert for the CMS hadron calorimeter (HCAL) subdetector responsible for addressing problems and in charge of coordinating activity during daily meetings; and
@@ -69,7 +67,6 @@ Research Experience
 Teaching Experience
 ======
 * <b>Graduate Teaching Assistant,</b> Department of Physics and Astronomy, University of Alabama, Tuscaloosa, AL, Fall 2012 - Spring 2014, Spring 2018
-  <br>
   <br> Lead lab instructor for multiple 2 hour long physics labs consisting of 50 students each.
 
   * Lab instructor, PH 105 <i>General Physics with Calculus I</i>, 3 sections, Spring 2018
@@ -114,7 +111,7 @@ Talks
 ======
 * Dissertation defense, "Search for Signatures of Large Extra Dimensions in High-Mass Diphoton Events from Proton-Proton Collisions at $\sqrt{s} = 13$ TeV with CMS", University of Alabama, Tuscaloosa, AL, November 2018, [https://physics.ua.edu](https://physics.ua.edu)
 
-* Seminar, "Search for large extra dimensions using high-mass diphoton events collected with CMS in 2016", Experimental Particle Physics Journal Club, University of Alabama, Tuscaloosa, AL, April 2018, [https://physics.ua.edu/experimental-particle-and-astroparticle-physics-journal-club/](https://physics.ua.edu/experimental-particle-and-astroparticle-physics-journal-club/)
+* Seminar, "Search for large extra dimensions using high-mass diphoton events collected with CMS in 2016", Experimental Particle Physics Journal Club, University of Alabama, Tuscaloosa, AL, April 2018, [https://physics.ua.edu/experimental-particle-and-astroparticle-physics-journal-club](https://physics.ua.edu/experimental-particle-and-astroparticle-physics-journal-club)
 
 * Parallel talk, "Search for signatures of large extra dimensions in high-mass diphoton events using proton-proton collisions at $\sqrt{s} = 13$ TeV with CMS", APS April Meeting 2018, Columbus, OH, 14-17 April 2018, [http://meetings.aps.org/Meeting/APR18/Session/C09.5](http://meetings.aps.org/Meeting/APR18/Session/C09.5)
 
