@@ -88,7 +88,7 @@ Teaching Experience
   * Coach and tutor for precalculus; calculus 1, 2, and 3; differential equations; linear algebra; and statistics. We accepted walk-ins or individual, one-on-one appointments.
 
 
-Publications
+Selected Publications
 ======
 Public articles I have made significant contributions towards are listed below. I am a coauthor on all of the CMS Collaboration's publications since fulfilling their authorship requirements on October 13, 2016, currently over 220 publications. For the full list, please see: [http://inspirehep.net/author/profile/A.Buccilli.1](http://inspirehep.net/author/profile/A.Buccilli.1).
 
@@ -107,7 +107,7 @@ Public articles I have made significant contributions towards are listed below. 
 * <b>CMS Collaboration,</b> "Search for High-Mass Diphoton Resonances in pp Collisions at $\sqrt{s} = 8$ TeV with the CMS Detector", Technical Report CMS-PAS-EXO-12-045, CERN, Geneva, 2015, [http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-12-045/index.html](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-12-045/index.html)
 
 
-Talks
+Selected Presentations
 ======
 * Dissertation defense, "Search for Signatures of Large Extra Dimensions in High-Mass Diphoton Events from Proton-Proton Collisions at $\sqrt{s} = 13$ TeV with CMS", University of Alabama, Tuscaloosa, AL, November 2018, [https://physics.ua.edu](https://physics.ua.edu)
 
@@ -115,7 +115,11 @@ Talks
 
 * Parallel talk, "Search for signatures of large extra dimensions in high-mass diphoton events using proton-proton collisions at $\sqrt{s} = 13$ TeV with CMS", APS April Meeting 2018, Columbus, OH, 14-17 April 2018, [http://meetings.aps.org/Meeting/APR18/Session/C09.5](http://meetings.aps.org/Meeting/APR18/Session/C09.5)
 
+* Research presentation, "EXO-17-017 pre-approval: Search for a non-resonant excess in the high-mass diphoton channel at 13 TeV", EXO General Meeting, CERN, Geneva, Switzerland, November 2017, [https://indico.cern.ch/event/678807](https://indico.cern.ch/event/678807) (restricted access)
+
 * Competitive talk, "Searching for extra dimensions with a $5 billion microscope", Three Minute Thesis, University of Alabama, Tuscaloosa, AL, November 2017, [https://graduate.ua.edu/current-students/3mt](https://graduate.ua.edu/current-students/3mt) (Department winner and college semi-finalist.)
+
+* Collaboration talk, "HF and HEP17 Phase Settings in 2017", CMS Week, CERN, Geneva, Switzerland, June 2017, [https://indico.cern.ch/event/645440](https://indico.cern.ch/event/645440) (restricted access)
 
 * Seminar, "Searching for Large Extra Dimensions with CMS", HEP Seminar, University of Alabama, Tuscaloosa, AL, November 2014, [https://physics.ua.edu](https://physics.ua.edu)
 
