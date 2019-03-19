@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Get my resume at: [[PDF]](https://abuccilli.github.io/files/resume_buccilli_andrew.pdf)
+My full academic curriculum vitae is below. Get my brief resume at: [[PDF]](https://abuccilli.github.io/files/resume_buccilli_andrew.pdf)
 
 Education
 ======
