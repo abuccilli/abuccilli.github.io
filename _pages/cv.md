@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Get my resume at: [[PDF]](https://abuccilli.github.io/files/resume_buccilli_andrew.pdf)
+
 Education
 ======
 * <b>Ph.D., Experimental Particle Physics,</b> The University of Alabama, Tuscaloosa, AL, May 2019
@@ -34,15 +36,17 @@ Research Experience
 * <b>Graduate Research,</b> University of Alabama, Tuscaloosa, AL, Summer 2013 - Fall 2018
   <br> My Ph.D. dissertation research is in experimental high energy particle physics and largely consisted of performing:
 
-  * Big data analysis: Member of international, 4000+ member CMS Collaboration performing Ph.D. research looking for signals of new physics beyond the Standard Model with the CERN Large Hadron Collider using PBs of data collected by and recorded with the CMS detector;
+  * Big data analysis: Ph.D. research as member of 4000+ person CMS Collaboration at the CERN LHC analyzing PBs of data recorded by the CMS detector
 
-  * Data reduction: Wrote dedicated analysis code to reduce data to GBs on remote computing clusters distributed across a worldwide computing grid;
+  * Collaboration: Member of 5 statistical analysis teams searching for new physics and manager of a new 3 year long project, leading the analysis to publication
 
-  * Data selection: Started a new statistical search optimizing data selection criteria for discriminating signal and background, optimizing analysis sensitivity;
+  * Data reduction: Wrote dedicated analysis packages for reducing data to GBs on remote computing clusters distributed across a worldwide HPC grid
 
-  * Data interpretation: Produced Monte Carlo simulation of signal and background to compare against data and used statistical methods to search for an excess of data over background; and
+  * Signal optimization: Improved (photon) particle identification by up to 50% in analysis region over standard procedure
 
-  * Collaboration and leadership: As manager of an 8 member, 3 year long analysis team, convened meetings across multiple time zones, coordinated with management, and lead analysis towards publication, while presenting weekly updates and maintaining documentation.
+  * Background rejection: Reduced fake signals to percent level by tuning custom tagging algorithms in samples produced from Monte Carlo simulation
+
+  * Data interpretation: Applied Bayesian inference to set limits on new theory according to data
 
   * APS conference talk: [http://meetings.aps.org/Meeting/APR18/Session/C09.5](http://meetings.aps.org/Meeting/APR18/Session/C09.5)
   * Publication: [https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.092001](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.092001)
@@ -57,9 +61,9 @@ Research Experience
 * <b>Graduate Research Assistant / On-site lab user,</b> European Center for Nuclear Research (CERN), Geneva, Switzerland, Spring 2016 - Summer 2017
   <br> While based on-site at CERN, I was primarily involved with:
 
-  * Detector operations: Regular 24/7 on-call expert for the CMS hadron calorimeter (HCAL) subdetector responsible for addressing problems and in charge of coordinating activity during daily meetings; and
+  * Detector operations: Regular 24/7 on-call expert for the CMS detector responsible for promptly addressing problems with flexibility and coordinating activity during daily meetings
 
-  * Detector analysis: Member of HCAL group responsible for monitoring and analyzing its data for issues and maintaining code for constantly evolving detector hardware. Data analysis performed for synchronizing the 3500 HCAL readout channels used during data taking, separately during 2016 and 2017.
+  * Detector performance: Utilized a data analysis to synchronize all 3500 new detector readout channels for production use in 2016 and 2017
 
   Our analysis code is maintained at [https://github.com/HCALPFG](https://github.com/HCALPFG). I wrote some template code to help new members of the group at [https://github.com/HCALPFG/HcalTupleAnalyzerExample](https://github.com/HCALPFG/HcalTupleAnalyzerExample).
 
@@ -137,11 +141,13 @@ Workshops and Summer Schools
 
 Skills
 ======
-* <b>Computing:</b> C++ (STL), Python (NumPy, SciPy, pandas, Matplotlib), CERN ROOT, bash, git/svn, LaTeX, HTML, Unix, Linux, macOS, Jupyter, Mathematica, Matlab, Excel VBA, Monte Carlo physics simulation, RooStats, shell scripting, Sublime/emacs
+* <b>Computing:</b> C++, Python, bash, git/svn, LaTeX, SQL, HTML, Unix, Linux, macOS, Jupyter notebook, Mathematica, Matlab, Excel VBA, Monte Carlo physics simulation, shell scripting, Sublime/emacs
 
-* <b>General:</b> Collaborative and independent research, data analysis, programming, effective technical and non-technical communication, writing publications, public presentations, project management, leadership, teaching, mentoring, graduate-level physics and mathematics
+* <b>Libraries:</b> STL, NumPy, SciPy, scikit-learn, pandas, Matplotlib, CERN ROOT, RooStats
 
-* <b>Language:</b> English (native), Chinese (beginner, approximately HSK Level 3), French (basic)
+* <b>General:</b> Collaborative and independent research, data analysis, programming, machine learning, effective technical and non-technical communication, writing publications, public presentations, project management, leadership, teaching, mentoring, graduate-level physics and mathematics
+
+* <b>Language:</b> English (native), Chinese (beginner: \~HSK3), French (basic)
   
 
 Research Service and Leadership Roles
