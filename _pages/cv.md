@@ -16,6 +16,7 @@ Education
 * <b>Ph.D., Experimental Particle Physics,</b> The University of Alabama, Tuscaloosa, AL, May 2019
   * Dissertation defense: November 7, 2018
   * Dissertation: <i>"Search for Signatures of Large Extra Dimensions in High-Mass Diphoton Events from Proton-Proton Collisions at $\sqrt{s} = 13$ TeV with CMS"</i>
+  * Dissertation available on CDS under report numbers [CERN-THESIS-2018-263](http://cds.cern.ch/record/2668304) or [CMS-TS-2018-035](http://cds.cern.ch/record/2668304)
   * Advisor: [Prof. Conor Henderson](https://physics.ua.edu/profiles/conor-henderson)
 * <b>M.S., Physics,</b> The University of Alabama, Tuscaloosa, AL, May 2016
   * Master's defense: November 30, 2015

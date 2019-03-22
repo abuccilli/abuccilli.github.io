@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm completing my Ph.D. at the [University of Alabama, Tuscaloosa](https://physics.ua.edu) in experimental particle physics. I recently defended my dissertation and will formally graduate in May 2019.
+I'm completing my Ph.D. at the [University of Alabama, Tuscaloosa](https://physics.ua.edu) in experimental particle physics. I recently defended my dissertation and will formally graduate in May 2019. My dissertation can be found on the CERN Document Server under either report number [CERN-THESIS-2018-263](http://cds.cern.ch/record/2668304) or [CMS-TS-2018-035](http://cds.cern.ch/record/2668304).
 
 My researched focused on searching for evidence of extra spatial dimensions in the universe, namely, large extra dimensions, using the [CMS detector](https://cms.web.cern.ch) at the [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) located at [CERN](https://home.cern) in Geneva, Switzerland. This is a search for new physics beyond the [Standard Model](https://en.wikipedia.org/wiki/Standard_Model) of particle physics looking for new fundamental particles decaying to two photons.
 
