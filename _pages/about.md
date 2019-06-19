@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I will complete my Ph.D. at the [University of Alabama, Tuscaloosa](https://physics.ua.edu) in experimental particle physics in May 2019. My defended dissertation is publicly available on the CERN Document Server at [CERN-THESIS-2018-263](http://cds.cern.ch/record/2668304).
+I completed my Ph.D. in experimental particle physics at the [University of Alabama, Tuscaloosa](https://physics.ua.edu) under the direction of [Prof. Conor Henderson](http://chenderson.people.ua.edu) in May 2019. My defended dissertation is publicly available on the CERN Document Server at [CERN-THESIS-2018-263](http://cds.cern.ch/record/2668304).
 
-My researched focused on searching for evidence of extra spatial dimensions in the universe, namely, large extra dimensions, using the [CMS detector](https://cms.web.cern.ch) at the [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) located at [CERN](https://home.cern) in Geneva, Switzerland. This is a search for new physics beyond the [Standard Model](https://en.wikipedia.org/wiki/Standard_Model) of particle physics looking for new fundamental particles decaying to two photons.
+My researched focused on searching for evidence of extra spatial dimensions in the universe, namely, [large extra dimensions](https://en.wikipedia.org/wiki/Large_extra_dimension), using the [CMS detector](https://cms.web.cern.ch) at the [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) located at [CERN](https://home.cern) in Geneva, Switzerland. This is a search for new physics beyond the [Standard Model of particle physics](https://en.wikipedia.org/wiki/Standard_Model) looking for new fundamental particles decaying to two photons. This was achieved by performing a statistical data analysis on a large data set and simulating the theory through the detector.
 
-I'm interested in applications of these data analysis skills to all different areas of industry.
+I'm interested in applications of these data analysis techniques to all different areas of industry from research and problem solving to product development and business analytics.
 
 See my full academic curriculum vitae above, or get my brief resume at: [[PDF]](https://abuccilli.github.io/files/resume_buccilli_andrew.pdf)
 
