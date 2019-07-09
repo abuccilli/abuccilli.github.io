@@ -20,6 +20,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
+import seaborn as sns
 #from scipy import stats
 import sklearn
 import sklearn.linear_model
@@ -616,6 +617,24 @@ plt.ylabel('Events', horizontalalignment='right', y=1.0);
 
 
 ![png](https://abuccilli.github.io/images/Photon%20Classification_files/Photon%20Classification_33_0.png)
+
+
+## Feature Correlation
+
+- The strongest correlations are among the angular coordinates, shower shapes along the angular coordinates, and among the different energy variables
+
+
+```python
+corr = df[features].corr()
+```
+
+
+```python
+sns.heatmap(corr);
+```
+
+
+![png](https://abuccilli.github.io/images/Photon%20Classification_files/Photon%20Classification_36_0.png)
 
 
 ## Split dataset
