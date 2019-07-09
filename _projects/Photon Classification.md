@@ -1,8 +1,10 @@
 ---
 title: "Photon Classification"
-excerpt: "Used a deep neural network (DNN) to classify photons recorded by the CMS detector. <br/><img src='/images/500x300.png'>"
+excerpt: "Used a deep neural network (DNN) to classify photons recorded by the CMS detector."
 collection: projects
 ---
+
+This Jupyter notebook can be downloaded [here](https://github.com/abuccilli/photon-classification/blob/master/Photon%20Classification.ipynb).
 
 # Photon Classification
 
@@ -31,7 +33,7 @@ from keras.layers import Dense
 
 The data has been initially processed using the [CERN ROOT data analysis frame work](https://root.cern.ch) and is stored in trees using its TTree() data structure. Observe the following tree->branch->leaf format.
 
-<img src="images/root_tree_browser.png" style="width:400px;height:400px;">
+<img src="https://abuccilli.github.io/images/Photon%20Classification_files/root_tree_browser.png" style="width:400px;height:400px;">
 <caption><center> <u>Figure 1 </u>: ROOT TTree structure <br> </center></caption>
 
 This will be converted into a pandas DataFrame using [root_pandas](https://github.com/scikit-hep/root_pandas).
@@ -450,7 +452,7 @@ plt.ylabel('Events / '+str(int(4000/n_bins_pt))+' GeV', horizontalalignment='rig
 ```
 
 
-![png](Photon%20Classification_files/Photon%20Classification_17_0.png)
+![png](https://abuccilli.github.io/images/Photon%20Classification_files/Photon%20Classification_17_0.png)
 
 
 
@@ -463,7 +465,7 @@ plt.ylabel('$\phi$');
 ```
 
 
-![png](Photon%20Classification_files/Photon%20Classification_18_0.png)
+![png](https://abuccilli.github.io/images/Photon%20Classification_files/Photon%20Classification_18_0.png)
 
 
 
@@ -474,7 +476,7 @@ plt.ylabel('Events', horizontalalignment='right', y=1.0);
 ```
 
 
-![png](Photon%20Classification_files/Photon%20Classification_19_0.png)
+![png](https://abuccilli.github.io/images/Photon%20Classification_files/Photon%20Classification_19_0.png)
 
 
 
@@ -485,7 +487,7 @@ plt.ylabel('Events / '+str(5/50)+' GeV', horizontalalignment='right', y=1.0);
 ```
 
 
-![png](Photon%20Classification_files/Photon%20Classification_20_0.png)
+![png](https://abuccilli.github.io/images/Photon%20Classification_files/Photon%20Classification_20_0.png)
 
 
 ## Create labels
@@ -557,7 +559,7 @@ plt.show()
 ```
 
 
-![png](Photon%20Classification_files/Photon%20Classification_26_0.png)
+![png](https://abuccilli.github.io/images/Photon%20Classification_files/Photon%20Classification_26_0.png)
 
 
 ## Prepare features
@@ -613,7 +615,7 @@ plt.ylabel('Events', horizontalalignment='right', y=1.0);
 ```
 
 
-![png](Photon%20Classification_files/Photon%20Classification_33_0.png)
+![png](https://abuccilli.github.io/images/Photon%20Classification_files/Photon%20Classification_33_0.png)
 
 
 ## Split dataset
