@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full academic curriculum vitae is below. Get my brief resume at: [[PDF]](https://abuccilli.github.io/files/resume_buccilli_andrew.pdf)
+My full academic curriculum vitae is below. Get my brief resume at: [[PDF]](https://abuccilli.github.io/files/Andrew_Buccilli_Resume.pdf)
 
 Education
 ======
@@ -25,6 +25,7 @@ Education
 
 Employment
 ======
+* Sept 2019 - Present, Data Science Fellow, Insight Data Science, San Francisco, CA
 * Summer 2018, Graduate Research Assistant, University of Alabama, Tuscaloosa, AL
 * Spring 2018, Graduate Teaching Assistant, University of Alabama, Tuscaloosa, AL
 * Summer 2014 - Fall 2017, Graduate Research Assistant, University of Alabama, Tuscaloosa, AL
@@ -32,24 +33,32 @@ Employment
 * Fall 2012 - Spring 2014, Graduate Teaching Assistant, University of Alabama, Tuscaloosa, AL
 
 
+Experience
+======
+* <b>Data Science Fellow,</b> Insight Data Science, San Francisco, CA, Sept 2019 - Present
+
+  * Consulted with a company to design a real-time anomaly detection algorithm for their water flow monitoring system
+
+  * Engineered and modeled 3 months of daily sensor data (10K events/day) from multiple environments using isolation forests to identify rare flow behavior on the production system
+
+  * Created and deployed dynamic visualizations of anomalous time series data into client's online workflow for their customers
+
+
 Research Experience
 ======
-* <b>Graduate Research,</b> University of Alabama, Tuscaloosa, AL, Summer 2013 - Fall 2018
-  <br> My Ph.D. dissertation research is in experimental high energy particle physics and largely consisted of performing:
+* <b>Graduate Student Researcher,</b> University of Alabama, Tuscaloosa, AL, Aug 2012 - May 2019
 
-  * Big data analysis: Ph.D. research as member of 4000+ person CMS Collaboration at the CERN LHC analyzing PBs of data recorded by the CMS detector
+  * Analyzed PBs of detector data from high energy particle collisions at the CERN Large Hadron Collider, searching for new physics as a member of a 4000+ person collaboration
 
-  * Collaboration: Member of 5 statistical analysis teams searching for new physics and manager of a new 3 year long project, leading the analysis to publication
+  * Managed long-term (3 year) statistical data analysis team of 10 researchers, leading the new result to publication, and member of 4 other data analysis teams
 
-  * Data reduction: Wrote dedicated analysis packages for reducing data to GBs on remote computing clusters distributed across a worldwide HPC grid
+  * Wrote dedicated analysis packages for reducing data to GBs on remote computing clusters distributed across a worldwide high-performance computing grid
 
-  * Signal optimization: Improved (photon) particle identification by up to 50% in analysis region over standard procedure
+  * Improved particle identification by up to 50% in analysis region over standard procedure
 
-  * Background rejection: Reduced fake signals to percent level by tuning custom tagging algorithms in samples produced from Monte Carlo simulation
+  * Reduced fake signals to detector threshold by tuning custom tagging algorithms in data samples produced from Monte Carlo simulation
 
-  * Data interpretation: Applied Bayesian inference to set limits on new theory according to data
-
-  * APS conference talk: [http://meetings.aps.org/Meeting/APR18/Session/C09.5](http://meetings.aps.org/Meeting/APR18/Session/C09.5)
+  * Conference talk: [http://meetings.aps.org/Meeting/APR18/Session/C09.5](http://meetings.aps.org/Meeting/APR18/Session/C09.5)
   * Publication: [https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.092001](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.092001)
   * Analysis code: [https://github.com/cms-exotica-diphotons/diphoton-analysis](https://github.com/cms-exotica-diphotons/diphoton-analysis)
 
@@ -59,29 +68,31 @@ Research Experience
 
   I was employed as a Graduate Research Assistant from Summer 2014 - Fall 2017 and during Summer 2018, but actively involved with dissertation research since Summer 2013.
 
-* <b>Graduate Research Assistant / On-site lab user,</b> European Center for Nuclear Research (CERN), Geneva, Switzerland, Spring 2016 - Summer 2017
-  <br> While based on-site at CERN, I was primarily involved with:
+* <b>Graduate Research Assistant,</b> European Center for Nuclear Research (CERN), Geneva, Switzerland, Jan 2016 - Aug 2017
 
-  * Detector operations: Regular 24/7 on-call expert for the CMS detector responsible for promptly addressing problems with flexibility and coordinating activity during daily meetings
+  * Coordinated daily detector operation for 50 member team, responsible for promptly addressing problems with flexibility as a regular 24/7 on-call expert
 
-  * Detector performance: Utilized a data analysis to synchronize all 3500 new detector readout channels for production use in 2016 and 2017
+  * Performed a data analysis to synchronize over 3500 new detector readout channels for production use in 2016 and 2017
 
-  Our analysis code is maintained at [https://github.com/HCALPFG](https://github.com/HCALPFG). I wrote some template code to help new members of the group at [https://github.com/HCALPFG/HcalTupleAnalyzerExample](https://github.com/HCALPFG/HcalTupleAnalyzerExample).
+  Analysis code is maintained at [https://github.com/HCALPFG](https://github.com/HCALPFG). Template code I wrote to help new members of the group at [https://github.com/HCALPFG/HcalTupleAnalyzerExample](https://github.com/HCALPFG/HcalTupleAnalyzerExample).
 
 
 Teaching Experience
 ======
 * <b>Graduate Teaching Assistant,</b> Department of Physics and Astronomy, University of Alabama, Tuscaloosa, AL, Fall 2012 - Spring 2014, Spring 2018
-  <br> Lead lab instructor for multiple 2 hour long physics labs consisting of 50 students each.
 
-  * Lab instructor, PH 105 <i>General Physics with Calculus I</i>, 3 sections, Spring 2018
-  * Course assistant, PH 105 <i>General Physics with Calculus I</i> (studio format), 1 section, Spring 2014
-  * Lab instructor, PH 106 <i>General Physics with Calculus II</i>, 1 section, Fall 2013
-  * Lab instructor, PH 101 <i>General Physics I</i>, 2 sections, Fall 2013
-  * Lab instructor, PH 102 <i>General Physics II</i>, 1 section, Summer 2013
-  * Lab instructor, PH 101 <i>General Physics I</i>, 1 section, Summer 2013
-  * Lab instructor, PH 105 <i>General Physics with Calculus I</i>, 2 sections, Spring 2013
-  * Lab instructor, PH 105 <i>General Physics with Calculus I</i>, 2 sections, Fall 2012
+  * Started a new research-based journal club for 20 graduate students, postdocs, and professors in the physics department, organizing and leading biweekly sessions
+
+  * Instructed multiple 2 hour long physics labs of 50 students each, conducting weekly experiments using statistical data analysis techniques
+
+    * Lab instructor, PH 105 <i>General Physics with Calculus I</i>, 3 sections, Spring 2018
+    * Course assistant, PH 105 <i>General Physics with Calculus I</i> (studio format), 1 section, Spring 2014
+    * Lab instructor, PH 106 <i>General Physics with Calculus II</i>, 1 section, Fall 2013
+    * Lab instructor, PH 101 <i>General Physics I</i>, 2 sections, Fall 2013
+    * Lab instructor, PH 102 <i>General Physics II</i>, 1 section, Summer 2013
+    * Lab instructor, PH 101 <i>General Physics I</i>, 1 section, Summer 2013
+    * Lab instructor, PH 105 <i>General Physics with Calculus I</i>, 2 sections, Spring 2013
+    * Lab instructor, PH 105 <i>General Physics with Calculus I</i>, 2 sections, Fall 2012
 
 * <b>Teaching Assistant,</b> Department of Mathematical Sciences, Michigan Technological University, Houghton, MI, Fall 2009 - Spring 2011
   * Grader, MA 4515 <i>Introduction to Partial Differential Equations</i>, Spring 2011
@@ -95,7 +106,7 @@ Teaching Experience
 
 Selected Publications
 ======
-Public articles I have made significant contributions towards are listed below. I am a coauthor on all of the CMS Collaboration's publications since fulfilling their authorship requirements on October 13, 2016, currently over 220 publications. For the full list, please see: [http://inspirehep.net/author/profile/A.Buccilli.1](http://inspirehep.net/author/profile/A.Buccilli.1).
+Public articles I have made significant contributions towards are listed below. I am a coauthor on all of the CMS Collaboration's publications since fulfilling their authorship requirements on October 13, 2016, currently over 280 publications. For the full list, please see: [http://inspirehep.net/author/profile/A.Buccilli.1](http://inspirehep.net/author/profile/A.Buccilli.1).
 
 * <b>CMS Collaboration,</b> "Search for physics beyond the standard model in high-mass diphoton events from proton-proton collisions at $\sqrt{s} = 13$ TeV", <i>Phys. Rev. D</i> <b>98</b> (2018), no. 9, 092001, [doi:10.1103/PhysRevD.98.092001](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.092001), [arXiv:1809.00327](https://arxiv.org/abs/1809.00327)
 
@@ -142,11 +153,13 @@ Workshops and Summer Schools
 
 Skills
 ======
-* <b>Computing:</b> C++, Python, bash, git/svn, LaTeX, SQL, HTML, Unix, Linux, macOS, Jupyter notebook, Mathematica, Matlab, Excel VBA, Monte Carlo physics simulation, shell scripting, Sublime/emacs
+* <b>Computing:</b> Python, C++, SQL, bash, git, LaTeX, HTML, Unix, Jupyter, MATLAB, Mathematica, Excel VBA
 
-* <b>Libraries:</b> STL, NumPy, SciPy, scikit-learn, pandas, Matplotlib, CERN ROOT, RooStats
+* <b>Libraries:</b> NumPy, pandas, SciPy, scikit-learn, Keras, TensorFlow, matplotlib, seaborn, plotly STL, CERN ROOT, RooStats
 
-* <b>General:</b> Collaborative and independent research, data analysis, programming, machine learning, effective technical and non-technical communication, writing publications, public presentations, project management, leadership, teaching, mentoring, graduate-level physics and mathematics
+* <b>Statistical:</b> Machine learning, deep learning, computer vision, regression, classification, clustering, neural networks, regularization, dimensional reduction, feature engineering
+
+* <b>General:</b> Collaborative and independent research, data analysis, programming, effective technical and non-technical communication, writing publications, public presentations, project management, leadership, teaching, mentoring, graduate-level physics and mathematics
 
 * <b>Language:</b> English (native), Chinese (beginner: \~HSK3), French (basic)
   
