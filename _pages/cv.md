@@ -25,7 +25,6 @@ Education
 
 Employment
 ======
-* Sept 2019 - Present, Data Science Fellow, Insight Data Science, San Francisco, CA
 * Summer 2018, Graduate Research Assistant, University of Alabama, Tuscaloosa, AL
 * Spring 2018, Graduate Teaching Assistant, University of Alabama, Tuscaloosa, AL
 * Summer 2014 - Fall 2017, Graduate Research Assistant, University of Alabama, Tuscaloosa, AL
@@ -33,7 +32,7 @@ Employment
 * Fall 2012 - Spring 2014, Graduate Teaching Assistant, University of Alabama, Tuscaloosa, AL
 
 
-Experience
+Professional Experience
 ======
 * <b>Data Science Fellow,</b> Insight Data Science, San Francisco, CA, Sept 2019 - Present
 
